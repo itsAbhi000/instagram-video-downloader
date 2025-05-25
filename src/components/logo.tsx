@@ -19,7 +19,7 @@ export function LogoText({ className, ...props }: React.ComponentProps<"div">) {
       )}
       {...props}
     >
-      PSYCHO OFFICIAL x EVIL ANGEL 
+      PSYCHO x EVIL ANGEL 
     </div>
   );
 }
